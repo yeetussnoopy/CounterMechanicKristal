@@ -1,0 +1,17 @@
+{
+    "id": "counter",
+    "authors": [
+        "Yeetus",
+        "Inspired by SpriterMike"
+    ],
+    "version": "v1.0.0",
+    "engineVer": "v0.8.1",
+  
+    "config": {
+      "wholeParty": true,
+      "activateTP" : 75,
+      "costTP" : 65
+      
+      }
+	
+}
